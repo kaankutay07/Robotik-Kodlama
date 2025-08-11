@@ -1,4 +1,4 @@
-# xBowtie Embedded Labs
+# Robotik Kodlama Labs
 
 xBowtie kapsamındaki gömülü sistemler ve PCB projelerim. Her proje `projects/<ad>` altında; Arduino kodu, Fritzing dosyaları ve kısa dokümantasyon içerir.
 
