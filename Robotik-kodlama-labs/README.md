@@ -1,11 +1,11 @@
 # Robotik Kodlama Labs
 
-xBowtie kapsamındaki gömülü sistemler ve PCB projelerim. Her proje `projects/<ad>` altında; Arduino kodu, Fritzing dosyaları ve kısa dokümantasyon içerir.
+Her proje `projects/<ad>` altında; Arduino kodu, Fritzing dosyaları ve kısa dokümantasyon içerir.
 
 ## Proje Listesi
 | Proje | Konu | Kart | Klasör |
 |------:|------|------|--------|
-| 01 | Blink (digital output & delay) | Ardiuno UNO | `projects/01_blink/` |
+| 01 | Blink (digital output & delay) | Arduino UNO | `projects/01_blink/` |
 
 ## Yapı
 ```
