@@ -9,7 +9,7 @@ xBowtie kapsamındaki gömülü sistemler ve PCB projelerim. Her proje `projects
 
 ## Yapı
 ```
-xBowtie-embedded-labs/
+Robotik-kodlama-labs/
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
