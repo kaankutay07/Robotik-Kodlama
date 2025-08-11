@@ -5,7 +5,7 @@ xBowtie kapsamındaki gömülü sistemler ve PCB projelerim. Her proje `projects
 ## Proje Listesi
 | Proje | Konu | Kart | Klasör |
 |------:|------|------|--------|
-| 01 | Blink (digital output & delay) | Deneyap | `projects/01_blink/` |
+| 01 | Blink (digital output & delay) | Ardiuno UNO | `projects/01_blink/` |
 
 ## Yapı
 ```
